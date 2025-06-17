@@ -1,8 +1,8 @@
-This file contains code for the team SAFE demo on the solution to the Challenge 1 of the UN Tech Over Hackathon June 16 & 17, 2025.
+*This file contains code for the team SAFE demo on the solution to the Challenge 1 of the UN Tech Over Hackathon June 16 & 17, 2025.*
+**Title of Challenge: Unlocking Child-Centric Extreme Weather Intelligence: From Hindcasting to Forecasting, from Reaction to Proaction**
+*Prepared by team SAFE Presented by SAFE (Storm Action For EveryChild):*
 
-Prepared by team SAFE Presented by SAFE (Storm Action For EveryChild):
-
-Ngoc Tram Nguyen, Orsolya Horváth-Dudás, Rita Mateus, Shruthiveena Krishnamurthy,  Varvara Krechetova
+*Ngoc Tram Nguyen, Orsolya Horváth-Dudás, Rita Mateus, Shruthiveena Krishnamurthy,  Varvara Krechetova*
 
 Case Study: Bangladesh
 
@@ -24,3 +24,4 @@ Examples: the risk assessment components allow:
    - Children between 5 and 10 in High risk of losing schooling days: 4,580,140
 5) Calculate Children under 5 living in high poverty areas also in High risk of not getting timely medical services due to Amphan?
     - Children under 5 living in high poverty areas also in High risk of not getting timely medical services due to Amphan hurricane: 9,651
+<img src="images/schooling_kids_5-10.png" alt="Alt text" width="500">
